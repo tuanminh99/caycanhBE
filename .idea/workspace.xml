@@ -11,7 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad3d8be-ff97-46b8-ab89-e9527f0c128d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/donhang/manage_order.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/donhang/view.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +131,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -247,6 +252,15 @@
       <workItem from="1610768508246" duration="603000" />
       <workItem from="1610785605516" duration="9050000" />
       <workItem from="1610852449699" duration="3294000" />
+      <workItem from="1610874046342" duration="4927000" />
+      <workItem from="1610939878866" duration="2345000" />
+      <workItem from="1610946976854" duration="7351000" />
+      <workItem from="1611113017539" duration="9589000" />
+      <workItem from="1611197975390" duration="2970000" />
+      <workItem from="1611417476163" duration="624000" />
+      <workItem from="1611460835106" duration="657000" />
+      <workItem from="1611542028365" duration="1266000" />
+      <workItem from="1611552607343" duration="873000" />
     </task>
     <servers />
   </component>
@@ -278,10 +292,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610788030709" />
-    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1610852455700">
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1611552659533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610852455700" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611552659533" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603432028090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -290,9 +304,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603704181096" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610786209346">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611131732299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610786209346" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611131732299" />
   </component>
 </project>

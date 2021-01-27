@@ -177,6 +177,17 @@ Route::group(['prefix'=>'admins', 'middleware'=>'check-login'],function () {
         ]);
     });
 
+    Route::prefix('order')-> group(function () {
+        Route::get('/', [
+            'as' => 'orders.index',
+            'uses' => 'OrderController@index'
+        ]);
+        Route::get('/view/{id}', [
+            'as' => 'orders.view',
+            'uses' => 'OrderController@view'
+        ]);
+    });
+
     Route::prefix('user')-> group(function () {
         Route::get('/', [
             'as' => 'users.index',
